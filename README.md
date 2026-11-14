@@ -1,9 +1,10 @@
-<!-- Main heading at the top of the profile; this displays your name. -->
-<h1 align="center">Hi 👋, I'm Akash Kheto</h1>
-<!-- Short introduction or current learning focus shown below your name. -->
-<h3 align="center">Data Analytics Learner | Developer in Progress</h3>
 
-<h3 align="left">About Me:</h3>
+<!-- Amazon-inspired Profile Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:FFC300&height=180&section=header&text=Akash%20Kheto&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20%7C%20Aspiring%20SDE&descAlignY=72&descSize=18" alt="Akash Kheto profile banner" width="100%" />
+</p>
+
+<h3 align="left">🚀 About Me</h3>
 <p align="left">
   🔭 Exploring Data Analytics and Data Engineering<br>
   🌱 Learning Python, SQL, and cloud technologies<br>
@@ -12,7 +13,7 @@
 </p>
 
 <!-- Social and contact links -->
-<h3 align="left">Connect with me:</h3>
+<h3 align="left"> 🤝 Connect with me</h3>
 <p align="center">
   <a href="https://www.linkedin.com/in/akash-kheto/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -25,8 +26,8 @@
   </a>
 </p>
 
-<!-- Coding platform profiles -->
-<h3 align="left">Coding Profiles:</h3>
+<!-- Coding profiles -->
+<h3 align="left"> 💻 Coding Profiles</h3>
 <p align="center">
   <a href="https://codeforces.com/profile/akashkheto955" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" />
@@ -38,8 +39,8 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksforGeeks" height="30" width="40" />
   </a>
 </p>
-<!-- Languages and tools I use or am learning. -->
-<h3 align="left">Languages and Tools:</h3>
+<!-- Languages and tools -->
+<h3 align="left"> 🛠️ Languages and Tools</h3>
 <p align="center">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
@@ -80,21 +81,27 @@
   </a>
 </p>
 
-<!-- GitHub contribution streak statistics -->
-<h3 align="left">GitHub Streak:</h3>
+<!-- GitHub streak -->
+<h3 align="left"> 🔥 GitHub Streak</h3>
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-kheto" alt="Akash Kheto's GitHub streak" />
 </p>
 
 
-<!-- The animation below shows a snake moving across your contribution graph. -->
-<!-- Snake Game Repo View -->
+<!-- Contribution snake animation -->
+
 
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-<!-- This image is a badge that displays your GitHub profile view count. -->
+
+⭐ **_"Turning data into insights and ideas into code."_** ⭐
+
+<!-- Profile view counter -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=akash-kheto&label=Profile%20views&color=0e75b6&style=flat" alt="akash-kheto" /> </p>
+
+
+
 
 
