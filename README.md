@@ -1,8 +1,7 @@
-
-<!-- Amazon-inspired Profile Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:FFC300&height=180&section=header&text=Akash%20Kheto&fontSize=42&fontColor=ffffff&animation=fadeIn&desc=Data%20Analytics%20%7C%20Aspiring%20SDE&descAlignY=72&descSize=18" alt="Akash Kheto profile banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:FFC300&height=180&section=header&text=Akash%20Kheto&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Analytics%20%7C%20Aspiring%20SDE&descAlignY=72&descSize=18" alt="Akash Kheto AWS-inspired banner" width="100%" />
 </p>
+
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
@@ -81,10 +80,11 @@
   </a>
 </p>
 
+
 <!-- GitHub streak -->
-<h3 align="left"> 🔥 GitHub Streak</h3>
+<h3 align="left">🔥 GitHub Streak</h3>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=akash-kheto" alt="Akash Kheto's GitHub streak" />
+ <img src="https://streak-stats.demolab.com/?user=akash-kheto&background=0,1F2937,4B5563&border=374151&stroke=374151&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=D1D5DB" alt="Akash Kheto's GitHub streak" />
 </p>
 
 
@@ -100,6 +100,7 @@
 
 <!-- Profile view counter -->
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=akash-kheto&label=Profile%20views&color=0e75b6&style=flat" alt="akash-kheto" /> </p>
+
 
 
 
