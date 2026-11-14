@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-kheto" alt="akash-kheto" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/https://x.com/akashxkheto" target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/akashxkheto?logo=twitter&style=for-the-badge" alt="https://x.com/akashxkheto" /></a> </p>
+<p align="left"> <a href=akashxkheto target="blank"><img src="https://img.shields.io/twitter/follow/https://x.com/akashxkheto?logo=twitter&style=for-the-badge" alt="https://x.com/akashxkheto" /></a> </p>
 
 - 📫 How to reach me **akashkheto955@gmail.com**
 
