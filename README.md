@@ -2,6 +2,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232F3E,50:FF9900,100:FFC300&height=180&section=header&text=Akash%20Kheto&fontSize=42&fontColor=FFFFFF&animation=fadeIn&desc=Data%20Analytics%20%7C%20Aspiring%20SDE&descAlignY=72&descSize=18" alt="Akash Kheto AWS-inspired banner" width="100%" />
 </p>
 
+<img align="right" alt="GIF" src="https://github.com/bhumikatewary/bhumikatewary/blob/main/giphy.gif" width="400" height="400" />
+
 
 <h3 align="left">🚀 About Me</h3>
 <p align="left">
