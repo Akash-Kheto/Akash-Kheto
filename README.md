@@ -39,44 +39,44 @@
   </a>
 </p>
 <!-- Languages and tools -->
-<h3 align="left"> 🛠️ Languages and Tools</h3>
+<h3 align="left">🛠️ My Tech Stack</h3>
+
 <p align="center">
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
   </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/html-5.png" alt="HTML5" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/css3.png" alt="CSS3" width="40" height="40"/>
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/javascript.png" alt="JavaScript" width="40" height="40"/>
   </a>
   <a href="https://react.dev/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
   </a>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" alt="AWS" width="60" height="40"/>
-</a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-</a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-</a>
-<a href="https://numpy.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
-</a>
-<a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
-</a>
-<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" alt="Scikit-learn" width="40" height="40"/>
-</a>
+  <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/nodejs.png" alt="Node.js" width="40" height="40"/>
   </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-48/mongodb-3629612-3032310.png" alt="MongoDB" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+  </a>
+  <a href="https://numpy.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" alt="NumPy" width="40" height="40"/>
+  </a>
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/Matplotlib_icon.svg" alt="Matplotlib" width="40" height="40"/>
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
   </a>
 </p>
 
@@ -86,6 +86,18 @@
 <p align="center">
  <img src="https://streak-stats.demolab.com/?user=akash-kheto&background=0,1F2937,4B5563&border=374151&stroke=374151&ring=FF9900&fire=FF9900&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF&dates=D1D5DB" alt="Akash Kheto's GitHub streak" />
 </p>
+
+<br/>
+
+![Akash Kheto's GitHub stats](https://github-readme-stats.vercel.app/api?username=Akash-Kheto&show_icons=true&theme=radical) <a href="https://github.com/Akash-Kheto/github-readme-stats"><img alt="Akash Kheto Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Kheto&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+
+<br>
+
+<summary><b>⚡ Recent GitHub Activity</b></summary>
+<br/>
+
+<a href="https://github.com/Akash-Kheto"><img alt="" src="https://activity-graph.herokuapp.com/graph?username=Akash-Kheto&custom_title=Akash-Kheto's%20Contribution%20Graph&theme=react-dark" /></a>
+<br/>
 
 
 <!-- Contribution snake animation -->
